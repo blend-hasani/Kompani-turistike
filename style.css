@@ -349,12 +349,12 @@ body{
 }
 
 .right{
-	padding: 25px 40px;
+	
 }
 
 h2{
 	position: relative;
-	padding: 0 0 10px;
+	
 	margin-bottom: 10px;
 }
 
@@ -375,7 +375,7 @@ h2:after{
 	border: 2px solid rgba(0, 0, 0, 0);
 	outline: none;
 	background-color: rgba(230, 230, 230, 0.6);
-	padding: 0.5rem 1rem;
+	
 	font-size: 1.1rem;
 	margin-bottom: 22px;
 	transition: .3s;
@@ -437,7 +437,7 @@ footer {
    width: 100%;
    text-align: left;
    font: bold 16px sans-serif;
-   padding: 50px 50px 60px 50px;
+   
    margin-top: 80px;
 }
 
@@ -467,7 +467,7 @@ footer {
 
 .footer-distributed .footer-links {
    color: #ffffff;
-   margin: 20px 0 12px;
+   
 }
 
 .footer-distributed .footer-links a {
